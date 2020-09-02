@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 11 17:25:37 2018
-
-@author: s16152476
+@author: Allen Annom
 """
 import pandas as pd
 from time import time
